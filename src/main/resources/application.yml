@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/1917Years/propofol-back-end.git
+          uri: https://github.com/1917Years/propofol-properties.git
 
 #management:
 #  endpoints:
